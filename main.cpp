@@ -1,4 +1,4 @@
-//Afham Bashir. 2.3.2020. Shut the b0x
+//Shut the b0x
 #include <cmath>       
 #include <cstdlib>
 #include <ctime>       // for srand
